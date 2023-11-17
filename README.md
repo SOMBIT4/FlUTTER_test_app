@@ -1,6 +1,6 @@
 # flutter_application_1
 
-A new Flutter project.
+A new Flutter demo project for learing flutter , dart and developing my Mobile app development skill.
 
 ## Getting Started
 
